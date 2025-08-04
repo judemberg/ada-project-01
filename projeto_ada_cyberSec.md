@@ -25,7 +25,7 @@ Com essa solução, a FuturisTech fortalece sua postura de segurança, atende re
 
 ​	Esta modalidade de conexão evita exposição à internet e quase que praticamente pode eliminar os riscos com ataques de DDoS.
 
-![](C:\Users\judem\Desktop\Curso Ada\Topologia conectividade.png)
+![Topologia de Conectividade](https://github.com/judemberg/ada-project-01/blob/main/Topologia%20conectividade.png)
 
 ---
 
@@ -92,4 +92,5 @@ Com essa solução, a FuturisTech fortalece sua postura de segurança, atende re
 - https://learn.microsoft.com/pt-br/azure/role-based-access-control/overview
 - https://datatracker.ietf.org/doc/html/rfc6749
 - https://docs.equinix.com/fabric/
+
 - https://learn.microsoft.com/pt-br/sharepoint/
