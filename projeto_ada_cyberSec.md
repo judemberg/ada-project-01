@@ -75,7 +75,7 @@ Com essa solução, a FuturisTech fortalece sua postura de segurança, atende re
 
 ---
 
-## 6. Documentação e Treinamento
+## 📚 6. Documentação e Treinamento
 
 ​	A documentação ficará disponível na Wiki desenvolvido e apresentado em Sharepoint com toda topologia e arquitetura , manuais, especificações dos sistemas, normativos e Swaggers com histórico de versionamento das API's. 
 
@@ -94,4 +94,5 @@ Com essa solução, a FuturisTech fortalece sua postura de segurança, atende re
 - https://docs.equinix.com/fabric/
 
 - https://learn.microsoft.com/pt-br/sharepoint/
+
 
