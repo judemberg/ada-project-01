@@ -33,7 +33,7 @@ Com essa solução, a FuturisTech fortalece sua postura de segurança, atende re
 
 ### 2.1 Diagrama da Solução AWS
 
-![](C:\Users\judem\Desktop\Curso Ada\diagrama_aws.png)
+![Arquitetura da Solução em nuvem AWS](https://github.com/judemberg/ada-project-01/blob/main/diagrama_aws.png)
 
 
 
@@ -94,3 +94,4 @@ Com essa solução, a FuturisTech fortalece sua postura de segurança, atende re
 - https://docs.equinix.com/fabric/
 
 - https://learn.microsoft.com/pt-br/sharepoint/
+
